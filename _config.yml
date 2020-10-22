@@ -12,11 +12,11 @@ theme: minimal-mistakes-jekyll
 locale                   : "gr-GR"
 title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
-name                     : "pibook"
+name                     : "pibook ck02"
 description              : "Programming Interactivity Greek Book CK."
-url                      : "https://pibook-ck.netlify.app/"
+url                      : "https://pibook-ck02.netlify.app/"
 baseurl                  : ""
-repository               : "kontoschris/site"
+repository               : "kontoschris/pibook-ck02"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -65,14 +65,14 @@ author:
   location         :
   email            :
   uri              :
-  home             : "https://www.epidro.me"
+  home             : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "epidrome"
+  github           : "kontoschris"
   gitlab           :
   google_plus      :
   keybase          :
