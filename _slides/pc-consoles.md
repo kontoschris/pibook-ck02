@@ -11,7 +11,6 @@ slides:
   - logo-graphics
   - magnavox-odyssey
   - math-blaster
-  - apple-i-computer
   - apple-macintosh
   - apple2
 ---
