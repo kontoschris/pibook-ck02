@@ -15,6 +15,7 @@ O Jack Tramiel αφού επέζησε από το ολοκαύτωμα και �
 Η συμβολή του Tramiel στους προσωπικούς υπολογιστές ήταν σημαντική αφού έδωσε την δυνατότητα να εγκατασταθούν σε πολλά σπίτια στην Αμερική αλλά και στην Ευρώπη, προσωπικοί υπολογιστές της Commodore και αργότερα της Atari, μιας και ήταν υπολογιστές με αυξημένες για την εποχή δυνατότητες, σε προσιτή τιμή.
 
 #### Βιβλιογραφία
--[Wikipedia](https://en.m.wikipedia.org/wiki/Jack_Tramiel)
--[ArsTechnica](https://arstechnica.com/gadgets/2007/10/amiga-history-4-commodore-years/)
+- [Wikipedia](https://en.m.wikipedia.org/wiki/Jack_Tramiel)
+
+- [ArsTechnica](https://arstechnica.com/gadgets/2007/10/amiga-history-4-commodore-years/)
 
